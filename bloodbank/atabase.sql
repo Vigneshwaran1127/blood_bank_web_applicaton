@@ -1,4 +1,3 @@
---CREATE DATABASE IF NOT EXISTS bloodbank;  (OR)
 CREATE DATABASE bloodbank;
 USE bloodbank;
 
